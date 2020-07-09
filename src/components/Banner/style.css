@@ -1,0 +1,52 @@
+.bgimage {
+    width:100%;
+    color: white;
+    height:500px;
+    background: url('https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+  }
+  .bgimage h5 {
+    color:white;
+    text-shadow:2px 2px #333;
+  }
+
+.banner-col{
+    
+    float: left;
+    /* margin: 25px; */
+    width: 50%;
+    height: 100%;
+    margin-top: 20px;
+  }
+
+  .quote{
+      margin-top: 10%;
+      background-color: white;
+      color: black;
+      height: 100%;
+  }
+  .subsection{
+      background-color: grey;
+      height: 100%
+  }
+
+  .leftHeader{
+    margin-top: 10%;
+
+  }
+  .ded-item{
+    margin: 10px 0 10px 0;
+  }
+
+  .quote-form{
+    width: 75%;
+    margin: auto;
+  }
+
+  .header-text{
+    margin: auto;
+    text-align: center;
+  }
